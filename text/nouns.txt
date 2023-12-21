@@ -26,3 +26,5 @@ Ironclad
 Silent
 Defect
 Watcher
+orb
+dome
